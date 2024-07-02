@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Image Transformation tool with AI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An AI-powered Image Transformation Tool utilizes advanced algorithms to enhance, edit, or manipulate images. It automates tasks like resizing, color adjustment, and style transfer, achieving professional-level results with minimal user input.",
+    url: "https://imaginify-gjze.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "News-react-app",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A News React App delivers real-time news updates with a responsive user interface built on React.js. It fetches data from reliable APIs, categorizes news by topics, and supports search functionality.",
+    url: "https://react-news-app-eight-lac.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Box-office",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Box-Office is an intuitive web app that utilizes APIs to fetch and display real-time data on movies and actors. Users can search for films or performers, accessing detailed information such as box office earnings, cast members, and critical reviews.",
+    url: "https://gopalsingh2809.github.io/box_office/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic-Tac-Toe game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Tic Tac Toe is a classic two-player game where opponents take turns marking Xs and Os on a 3x3 grid. The objective is to form a horizontal, vertical, or diagonal line of three symbols. Simple yet strategic, it's popular for its quick gameplay and accessibility across all ages.",
+    url: "https://github.com/GopalSingh2809/tictactoe_game",
   },
 ];
 

@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Experienced Front-End Web Developer with a passion for creating responsive, user-friendly interfaces. Skilled in translating UI/UX design wireframes into high-quality code and integrating back-end services. Proven ability to optimize web performance and ensure cross-browser compatibility. Effective communicator and team player, dedicated to continuous learning and staying updated with industry trends.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML5, CSS3, JavaScript (ES6+)",
+  "Responsive Web Design",
+  "Front-End Frameworks (React, Angular)",
+  "Version Control (Git)",
+  "UI/UX Design Principles",
+  "Web Performance Optimization",
+  "Cross-Browser Compatibility",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am deeply passionate about front-end development, where creativity meets functionality in crafting seamless user experiences.";
 
 const About = () => {
   return (
